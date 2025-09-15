@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "56fb",
+      "title": "test2",
+      "writer": "test2",
+      "description": "test2",
+      "image": "Screenshot (24).png",
+      "content": "<p>test2</p>"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John"
+    },
+    {
+      "id": 2,
+      "name": "Sara"
+    }
+  ]
+}
