@@ -1,31 +1,156 @@
 {
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "designation": "Software Engineer",
+      "video": { "url": "/videos/testimonial1.mp4" }
+    },
+    {
+      "id": 2,
+      "name": "Brian Smith",
+      "designation": "UI/UX Designer",
+      "video": { "url": "/videos/testimonial2.mp4" }
+    },
+    {
+      "id": 3,
+      "name": "Catherine Lee",
+      "designation": "Project Manager",
+      "video": { "url": "/videos/testimonial3.mp4" }
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "designation": "Frontend Developer",
+      "video": { "url": "/videos/testimonial4.mp4" }
+    },
+    {
+      "id": 5,
+      "name": "Eva Martinez",
+      "designation": "Marketing Specialist",
+      "video": { "url": "/videos/testimonial5.mp4" }
+    },
+    {
+      "id": 6,
+      "name": "Frank Wilson",
+      "designation": "Full Stack Developer",
+      "video": { "url": "/videos/testimonial6.mp4" }
+    },
+    {
+      "id": 7,
+      "name": "Grace Brown",
+      "designation": "Data Analyst",
+      "video": { "url": "/videos/testimonial7.mp4" }
+    },
+    {
+      "id": 8,
+      "name": "Henry Clark",
+      "designation": "Cloud Engineer",
+      "video": { "url": "/videos/testimonial8.mp4" }
+    },
+    {
+      "id": 9,
+      "name": "Isabella Green",
+      "designation": "QA Engineer",
+      "video": { "url": "/videos/testimonial9.mp4" }
+    },
+    {
+      "id": 10,
+      "name": "Jack White",
+      "designation": "Backend Developer",
+      "video": { "url": "/videos/testimonial10.mp4" }
+    }
+  ],
+  "photos": [
+    { "id": 1, "name": "Office Event", "url": "/images/photo1.jpg" },
+    { "id": 2, "name": "Team Meeting", "url": "/images/photo2.jpg" },
+    { "id": 3, "name": "Workshop", "url": "/images/photo3.jpg" },
+    { "id": 4, "name": "Conference", "url": "/images/photo4.jpg" },
+    { "id": 5, "name": "Hackathon", "url": "/images/photo5.jpg" },
+    { "id": 6, "name": "Team Lunch", "url": "/images/photo6.jpg" },
+    { "id": 7, "name": "Product Launch", "url": "/images/photo7.jpg" },
+    { "id": 8, "name": "Celebration", "url": "/images/photo8.jpg" },
+    { "id": 9, "name": "Training Session", "url": "/images/photo9.jpg" },
+    { "id": 10, "name": "Team Bonding", "url": "/images/photo10.jpg" }
+  ],
+  "videos": [
+    { "id": 1, "name": "Launch Event", "url": "/videos/video1.mp4" },
+    { "id": 2, "name": "Team Intro", "url": "/videos/video2.mp4" },
+    { "id": 3, "name": "Workshop Recording", "url": "/videos/video3.mp4" },
+    { "id": 4, "name": "Conference Highlights", "url": "/videos/video4.mp4" },
+    { "id": 5, "name": "Product Demo", "url": "/videos/video5.mp4" },
+    { "id": 6, "name": "Client Feedback", "url": "/videos/video6.mp4" },
+    { "id": 7, "name": "Behind The Scenes", "url": "/videos/video7.mp4" },
+    { "id": 8, "name": "Company Culture", "url": "/videos/video8.mp4" },
+    { "id": 9, "name": "Interview", "url": "/videos/video9.mp4" },
+    { "id": 10, "name": "Training Video", "url": "/videos/video10.mp4" }
+  ],
   "blogs": [
     {
-      "id": "56fb",
-      "title": "test2",
-      "writer": "test2",
-      "description": "test2",
-      "image": "Screenshot (24).png",
-      "content": "<p>test2</p>"
+      "id": 1,
+      "title": "How to Build Scalable Web Apps",
+      "author": "Alice Johnson",
+      "content": "In this blog, we explore techniques to build scalable apps..."
+    },
+    {
+      "id": 2,
+      "title": "UI/UX Design Principles",
+      "author": "Brian Smith",
+      "content": "Good design starts with understanding your users..."
+    },
+    {
+      "id": 3,
+      "title": "Managing Projects Effectively",
+      "author": "Catherine Lee",
+      "content": "Project management is all about communication..."
+    },
+    {
+      "id": 4,
+      "title": "Modern Frontend Tools",
+      "author": "David Kim",
+      "content": "React, Next.js, and Tailwind CSS are changing development..."
+    },
+    {
+      "id": 5,
+      "title": "Marketing in the Digital Era",
+      "author": "Eva Martinez",
+      "content": "Digital marketing strategies can skyrocket your growth..."
+    },
+    {
+      "id": 6,
+      "title": "Full Stack Development Guide",
+      "author": "Frank Wilson",
+      "content": "Becoming a full-stack developer requires mastering..."
+    },
+    {
+      "id": 7,
+      "title": "Data Analysis Best Practices",
+      "author": "Grace Brown",
+      "content": "Data drives decisions. Here's how to analyze effectively..."
+    },
+    {
+      "id": 8,
+      "title": "The Future of Cloud",
+      "author": "Henry Clark",
+      "content": "Cloud computing is evolving rapidly with serverless..."
+    },
+    {
+      "id": 9,
+      "title": "Why QA Matters",
+      "author": "Isabella Green",
+      "content": "Testing is essential to ensure product reliability..."
+    },
+    {
+      "id": 10,
+      "title": "Backend Optimization",
+      "author": "Jack White",
+      "content": "Optimizing your backend improves performance..."
     }
   ],
   "users": [
     {
       "id": 1,
       "name": "John"
-    },
-    {
-      "id": 2,
-      "name": "Sara"
-    }
-  ],
-  "photos": [],
-  "testimonials": [
-    {
-      "id": 1758022059153,
-      "name": "test",
-      "designation": "test",
-      "video": null
     }
   ]
 }
